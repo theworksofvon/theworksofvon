@@ -4,7 +4,6 @@
 
 [![Portfolio](https://img.shields.io/badge/-theworksofvon.github.io-000000?style=flat-square&logo=github&logoColor=white)](https://theworksofvon.github.io)
 [![EK Labs](https://img.shields.io/badge/-EK%20Labs-1a1a1a?style=flat-square&logo=safari&logoColor=white)](https://ek-labs.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/davontaejackson)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
