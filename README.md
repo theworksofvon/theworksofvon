@@ -1,6 +1,6 @@
 # Hello, I'm Von 👋
 
-**Product engineer. Founder. Builder of things that shouldn't exist yet.**
+**Product engineer. Founder. Builder of things.**
 
 [![Portfolio](https://img.shields.io/badge/-theworksofvon.github.io-000000?style=flat-square&logo=github&logoColor=white)](https://theworksofvon.github.io)
 [![EK Labs](https://img.shields.io/badge/-EK%20Labs-1a1a1a?style=flat-square&logo=safari&logoColor=white)](https://ek-labs.com)
