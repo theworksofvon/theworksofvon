@@ -20,9 +20,8 @@
 ## 🔨 What I'm Building
 
 * 🤖 [**pluto-ai-backend**](https://github.com/theworksofvon/pluto-ai-backend) — The prediction brain of Pluto
-* 🔗 [**clip-sync**](https://github.com/theworksofvon/clip-sync) — Seamless copy/paste across Mac → Windows → Linux
 * 🎬 [**yt-mp3-mp4-converter**](https://github.com/theworksofvon/yt-mp3-mp4-converter) — Local YouTube mp3/mp4 converter
-* 🚁 [**aether**](https://github.com/theworksofvon/aether) — Edge-autonomous drone platform with ROS 2, MAVLink, and onboard AI inference. Built from scratch in C++.
+* 🚁 [**aether**](https://github.com/theworksofvon/aether) — drone platform with ROS 2, MAVLink, and onboard AI inference. WIP
 
 **@ [EK Labs](https://github.com/EK-LABS-LLC)**
 
