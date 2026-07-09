@@ -13,7 +13,7 @@
 
 ---
 
-## 🔨 What I'm Building
+## What I'm Building
 
 * 🤖 [**pluto-ai-backend**](https://github.com/theworksofvon/pluto-ai-backend) — The prediction brain of Pluto
 * 🎬 [**yt-mp3-mp4-converter**](https://github.com/theworksofvon/yt-mp3-mp4-converter) — Local YouTube mp3/mp4 converter
